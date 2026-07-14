@@ -1,0 +1,16 @@
+{
+  "name": "Ozora — Lineup",
+  "short_name": "Ozora",
+  "description": "Ozora — full lineup, weather and favorites.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#061418",
+  "theme_color": "#061418",
+  "icons": [
+    { "src": "icon-192-light.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-light.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable-light.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
