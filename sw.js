@@ -1,6 +1,6 @@
 // Bump this whenever index.html (or the lineup data inside it) changes,
 // so returning visitors pick up the new version instead of a stale cache.
-const CACHE_NAME = 'ozora-cache-v102';
+const CACHE_NAME = 'ozora-cache-v104';
 // Photos and the map ARE precached (blocking, during install) so the app is
 // fully usable offline right after the first visit/install — e.g. someone
 // who adds the app to their home screen and immediately loses signal still
