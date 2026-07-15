@@ -670,6 +670,10 @@ body.cols-1 .slot .sub{font-size:0.75rem;}
   background:rgba(6,7,13,0.55); backdrop-filter:blur(4px); -webkit-backdrop-filter:blur(4px);
 }
 .overlay.show{display:block;}
+/* The Offline-use / Install overlay is opened as a nested panel ON TOP of the
+   Settings sheet (Settings stays open underneath), so it must stack above the
+   base .overlay z-index:60 — otherwise it renders below Settings. */
+#offlineUseOverlay{ z-index:70; }
 .sheet{
   position:absolute; left:0; right:0; bottom:0; top:auto;
   max-height:92vh; overflow-y:auto; overflow-x:hidden;
@@ -1557,6 +1561,10 @@ let scheduleView = (()=>{
   try{ const v=localStorage.getItem('festapp_scheduleview'); if(v==='rows'||v==='list'||v==='grid') return v; }catch(e){}
   return STAGES.length>=4 ? 'rows' : 'grid';
 })();
+// If the app opens in Rows view (the full stage-rows overview), start with every
+// stage checked — mirrors the select-Rows handler so first launch shows all rows,
+// not the width-based Grid subset. Grid/List keep the defaultActiveStages() subset.
+if(scheduleView==='rows'){ activeStages = new Set(STAGES); }
 function fmt(iso){
   const d=new Date(iso);
   const h=d.getHours(), m=String(d.getMinutes()).padStart(2,'0');
