@@ -31,3 +31,7 @@ No app store, no account, no download required.
 ## This is a fan project
 
 This is an unofficial, fan-made companion app — not affiliated with, endorsed by, or produced by Ozora Festival.
+
+## License
+
+© 2026 tm-604. All rights reserved. The source is published here for transparency only — it may not be copied, reused, or redistributed without permission. See the [LICENSE](./LICENSE) file for details.
