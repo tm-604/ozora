@@ -2,6 +2,10 @@
 
 What’s new in the OZORA festival app. Newest first.
 
+## Version 1.6.14 — July 2026
+
+- Added missing photos for Broken Breger, 8ternal Beings and Acideal, found and confirmed manually.
+
 ## Version 1.6.13 — July 2026
 
 - Removed a wrong photo for Mist — it was pulled from an unrelated UK rapper's SoundCloud account.
