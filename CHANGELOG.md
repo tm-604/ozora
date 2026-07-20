@@ -2,6 +2,14 @@
 
 What’s new in the OZORA festival app. Newest first.
 
+## Version 1.6.11 — July 2026
+
+- Added bio, country, genre and links for Tatoo and Mankind, resolved from their own confirmed artist profiles.
+
+## Version 1.6.10 — July 2026
+
+- Filled in genre for a few artists that were missing it (Deerfeeder, Bodoo, Nathalia).
+
 ## Version 1.6.9 — July 2026
 
 - Fixed: some devices (especially iOS) could get stuck showing an older version even after repeatedly reopening the app. Updates should now reach every device reliably.
