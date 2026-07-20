@@ -2,6 +2,10 @@
 
 What’s new in the OZORA festival app. Newest first.
 
+## Version 1.6.12 — July 2026
+
+- Fixed 3 artist photos found to be missing or incorrect during a manual review round (Colorstar, Nana Benz Du Togo, X-Dream).
+
 ## Version 1.6.11 — July 2026
 
 - Added bio, country, genre and links for Tatoo and Mankind, resolved from their own confirmed artist profiles.
