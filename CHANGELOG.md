@@ -2,6 +2,71 @@
 
 What’s new in the OZORA festival app. Newest first.
 
+## Version 1.6.30 — July 2026
+
+- Added artist photos and bios for many more artists, using their SoundCloud profiles.
+
+## Version 1.6.29 — July 2026
+
+- Delysid's artist page now links to both duo members (Hypnoise and Amplify) individually.
+- Added a few more verified SoundCloud/bio details after manual review.
+
+## Version 1.6.28 — July 2026
+
+- Added several more verified SoundCloud/YouTube links and 2 artist bios after manual review.
+
+## Version 1.6.27 — July 2026
+
+- Added 2 more verified SoundCloud links and a Facebook link after manual review.
+
+## Version 1.6.26 — July 2026
+
+- Added 76 more verified SoundCloud links after a large research round.
+
+## Version 1.6.25 — July 2026
+
+- Added a few more verified SoundCloud links and a missing artist photo/socials.
+
+## Version 1.6.24 — July 2026
+
+- Artist pages can now show Facebook, Website, Discogs and Apple Music links where available.
+
+## Version 1.6.23 — July 2026
+
+- Fixed Ace Ventura's Instagram link after verifying it against his official page.
+
+## Version 1.6.22 — July 2026
+
+- Fixed Emiri's and Jedidiah's SoundCloud links after verifying both against their real profiles. Minor bio-source cleanup for 3 more artists.
+
+## Version 1.6.21 — July 2026
+
+- Fixed 10 data-quality issues found during a full consistency check: a corrupted genre value, 8 SoundCloud links that had been mixed up with a different platform's link, and a stale bio for Tatoo.
+
+## Version 1.6.20 — July 2026
+
+- Fixed a bug where some artists' Instagram links had been saved but never actually showed up on their page. Fixed for everyone affected.
+
+## Version 1.6.19 — July 2026
+
+- Added 20 more SoundCloud links and a Facebook link, after manual verification.
+
+## Version 1.6.18 — July 2026
+
+- Fixed a truncated bio for Earthly Measures — restored the full text.
+
+## Version 1.6.17 — July 2026
+
+- Added 6 more SoundCloud links after manual verification.
+
+## Version 1.6.16 — July 2026
+
+- Added 59 missing Instagram links and 27 missing MusicBrainz identifiers that were already researched but hadn't made it into the app yet.
+
+## Version 1.6.15 — July 2026
+
+- Added 34 missing SoundCloud links that were already researched but hadn't made it into the app yet.
+
 ## Version 1.6.14 — July 2026
 
 - Added missing photos for Broken Breger, 8ternal Beings and Acideal, found and confirmed manually.
