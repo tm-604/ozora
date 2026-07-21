@@ -2,6 +2,18 @@
 
 What’s new in the OZORA festival app. Newest first.
 
+## Version 1.6.33 — July 2026
+
+- Added a small Om symbol at the bottom of the Settings page.
+
+## Version 1.6.32 — July 2026
+
+- Fixed a wrong-identity mix-up for Lensky (had been linked to an unrelated Haitian media page) — now shows the artist's real bio, photo and links.
+
+## Version 1.6.31 — July 2026
+
+- Filled in a few more artists' countries, sourced from their own SoundCloud bios.
+
 ## Version 1.6.30 — July 2026
 
 - Added artist photos and bios for many more artists, using their SoundCloud profiles.
